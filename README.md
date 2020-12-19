@@ -13,6 +13,8 @@ di program studi teknik informatika ITERA.
 -  **M. Fazar Zuhdi**
 -  **Abdul Gani**
 
+Untuk Melihat mentah commit silahkan masuk ke https://github.com/defanggaabypn/-IF3028-TUBESPEMWEB-2021.git
+
 ### Petunjuk Pengerjaan :umbrella:
 1. Fork pada repository ini dengan akun github anda.
 2. Silakan commit pada repository anda (hasil fork). Lakukan berberapa commit dengan pesan yang bermakna,
